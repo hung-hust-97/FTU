@@ -1,0 +1,10 @@
+Câu 1: Chú Tư gửi vào ngân hàng 50 triêu đồng với lãi suất 0,6%/tháng. Mỗi tháng, chú Tư rút 3 triệu đồng để chi tiêu, cứ thế cho đến khi rút hết cả gốc lẫn lãi. Hỏi tháng cuối chú rút được bao tiền?
+1. 1840270 đồng
+2. 3000000 đồng
+3. 1840269 đồng
+4. 1840268 đồng
+Câu 2: Ông Nam gửi 320 triệu đồng ở hai ngân hàng X vâ Y theo phương thức lãi kép. Gửi ngân hàng X với lãi suất 2,1 % một quý trong thời gian 15 tháng. Gửi n gân hàng Y với lãi suất 0,73% một tháng trong 9 tháng. Tổng lợi tức ở hai ngân hàng là 27507768,13 (chưa làm tròn). Hỏi số tiền ông Nam gửi lần lượt ở ngân hàng X và Y là bao nhiêu?
+1. 140 triệu và 180 triệu
+2. 180 triệu và 140 triệu
+3. 200 triệu và 120 triệu
+4. 120 triệu và 200 triệu

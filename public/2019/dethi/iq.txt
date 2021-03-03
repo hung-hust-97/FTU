@@ -1,0 +1,25 @@
+Câu 1: Một người có 7 cái áo trong đó có 3 cái áo trắng và 5 cái cà vạt trong đó có 2 cà vạt vàng. Tìm số cách chọn một áo và một cà vạt sao cho đã chọn áo trắng thì không chọn cà vạt vàng?
+1. 29
+2. 36
+3. 18
+4. 35
+Câu 2: Một ao có số lượng bèo ngày hôm sau sẽ nở gấp đôi ngày hôm trước, đến ngày thứ 18 thì bèo đã nở được nửa ao. Vậy đến ngày thứ bao nhiêu thì bèo sẽ nở đầy ao?
+1. 10
+2. 19
+3. 36
+4. 42
+Câu 3: Số tiếp theo của dãy số: 1223, 1227, 1243, 1257,... là?
+1. 1314
+2. 1283
+3. 1312
+4. 1294
+Câu 4: Báo và sư tử tham gia chạy thi. Quãng đường dài 100m, chạy cả đi và về là 200m. Mỗi bước chạy của báo là 3m, sư tử là 2m. Báo phóng được 2 bước thì sư tử phóng được 3 bước. Các bước phóng đều đặn từ đầu đến cuối. Hỏi con nào thắng?
+1. Báo
+2. Sư tử
+3. Hai con về đích cùng lúc
+4. Kết quả khác
+Câu 5: Nếu 7 + 3 = 41021; 8 + 3 = 51124; 5 + 4 =1920; 9 + 6 = 31554.Vậy 7 + 4 =?
+1. 31128
+2. 21128
+3. 42221
+4. 3728

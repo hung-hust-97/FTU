@@ -1,0 +1,70 @@
+﻿Câu 1: Tài khoản nào dưới đây chỉ có số dư cuối kỳ bên Có?
+1. Tài khoản Phải trả người bán
+2. Tài khoản Giá vốn hàng bán
+3. Tài khoản Hao mòn TSCĐ
+4. Tài khoản Phải thu khách hàng
+Câu 2: Kế toán quản trị sử dụng loại thước đo nào sau đây?
+1. Thước đo hiện vật
+2. Thước đo lao động
+3. Thước đo giá trị
+4. Tất cả các thước đo trên
+Câu 3: Phương trình nào dưới đây là phương trình kế toán cơ bản?
+1. Tài sản + Nợ phải trả = Vốn chủ sở hữu
+2. Tài sản + Doanh thu = Vốn chủ sở hữu
+3. Tài sản = Nợ phải trả + Vốn chủ sở hữu
+4. Tài sản + Doanh thu = Nợ phải trả + Chi phí
+Câu 4: Chênh lệch giữa lợi nhuận gộp và doanh thu thuần là?
+1. Hàng bán bị trả lại và giảm giá hàng bán
+2. Giá vốn hàng bán
+3. Chiết khấu thương mại
+4. Chi phí bán hàng và chi phí quản lí doanh nghiệp
+Câu 5: Tài khoản có số dư bên Nợ của bảng cân đối kế toán thuộc?
+1. Loại 1, 2
+2. Loại 3, 4
+3. Cả hai đều đúng
+4. Cả hai đều sai
+Câu 6: Các doanh nghiệp ghi nhận doanh thu khi?
+1. Doanh nghiệp nhận được tiền bán hàng
+2. Doanh nghiệp giao hàng hóa hoặc dịch vụ cho khách hàng, được khách hàng chấp nhận thanh toán hoặc đã thanh toán
+3. Doanh nghiệp nhận được tiền vay từ ngân hàng
+4. Khi bán cổ phiếu cho các cổ đông
+Câu 7: Nghiệp vụ "Mua một lô hàng, hàng đã nhập kho đủ, đã thanh toán 70% bằng tiền mặt, 40% bằng vay ngắn hạn ngân hàng" thuộc quan hệ đối ứng nào?
+1. Tài sản giảm, nguồn vốn tăng
+2. Tài sản tăng, nguồn vốn tăng
+3. Tài sản tăng, tài sản giảm
+4. Nguồn vốn tăng, nguồn vốn giảm
+Câu 8: Đối tượng nào sau đây là cấu phần của vốn chủ sở hữu?			
+1. Phải thu khách hàng
+2. Phải trả người bán
+3. Quỹ đầu tư phát triển
+4. Quỹ phát triển khoa học và công nghệ
+Câu 9: Số tiền nhận được khi đơn vị cho thuê hoạt động TSCĐ được ghi: 
+1. Tăng thu nhập khác
+2. Giảm đầu tư tài chính
+3. Giảm TSCĐ vô hình
+4. Tăng đầu tư tài chính ngắn hạn
+Câu 10: Tháng 3, đại lý bán vé máy bay XYZ bán được 500 vé thu được 800 triệu đồng trong đó 300 vé có trị giá 500 triệu sẽ được thực hiện chuyến bay trong tháng 3, còn lại sẽ được thực hiện trong tháng 4.Doanh thu tháng 2 là?		
+1. 800 triệu
+2. 500 triệu
+3. 300 triệu
+4. Không thể kết luận
+Câu 11: Các khoản nợ phải thu?
+1. Không phải là tài sản của doanh nghiệp
+2. Là tài sản của doanh nghiệp nhưng đang bị đơn vị khác chiếm dụng
+3. Không phải là tài sản của doanh nghiệp vì tài sản của doanh nghiệp thì ở tại doanh nghiệp
+4. Không chắc chắn là tài sản của doanh nghiệp
+Câu 12: Nợ phải trả phát sinh do?
+1. Lập hóa đơn và dịch vụ đã thực hiện cho khách hàng
+2. Mua thiết bị bằng tiền
+3. Trả tiền cho người bán vì vật dụng đã mua
+4. Mua hàng hóa chưa thanh toán
+Câu 13: Trong kỳ doanh nghiệp thu được 10 triệu trong đó thu nợ được 2 triệu và doanh thu trong kỳ là?
+1. 10 triệu
+2. 2 triệu
+3. 8 triệu
+4. Chưa đủ dữ liệu để kết luận
+Câu 14: Đầu kỳ tài sản của doanh nghiệp là 800 triệu trong đó vốn chủ sở hữu là 500 triệu, trong kỳ doanh nghiệp thua lỗ  100 triệu, tài sản và vốn chủ sở hữu lúc này là?
+1. 800 và 400
+2. 700 và 500
+3. 700 và 400
+4. Tất cả đều sai

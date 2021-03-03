@@ -1,0 +1,40 @@
+﻿﻿Câu 1: Trong mô hình nến Nhật, một nến đơn có giá mở cửa và giá đóng cửa bằng hoặc rất bằng nhau được gọi là?
+1. Hanging man
+2. Morning star
+3. Evening star
+4. Doji
+Câu 2: Trong chỉ báo Ichimoku Cloud, đường trung bình động về giá 9 ngày được gọi là?
+1. Tenkan-sen
+2. Ichi-sen
+3. Kijun-sen
+4. Kikan-sen
+Câu 3: Trong mô hình chuỗi năm sóng của nguyên lí sóng Elliott, sóng 1, 3 và 5 được gọi là?
+1. Sóng hiệu chỉnh
+2. Sóng duy trì
+3. Sóng phục hồi
+4. Sóng chuyển động
+Câu 4: Một hệ thống thông thường Bollinger Bands đươc cấu tạo bởi bao nhiêu thành phần cơ bản?			
+1. 2
+2. 3
+3. 4
+4. 5
+Câu 5: Các tỷ lệ Fibonacci thường được sử dụng là: 100%, …..., 50%, 38,2%, 23,6%.
+1. 62,80%
+2. 60,81%
+3. 61,80%
+4. 68,10%
+Câu 6: Đâu là hai mức thường được dùng khi sử dụng chỉ báo Stochastic?		
+1. 90 và 10
+2. 60 và 40
+3. 80 và 20
+4. Không có đáp án đúng
+Câu 7: Đâu không phải là mô hình nến đảo chiều tăng?
+1. Dragonfly Doji
+2. Tweezer Bottom
+3. Morning Star
+4. Gravestone Doji
+Câu 8: Tên của loại biểu đồ được tạo ra bằng cách nối các giá trị giá đóng cửa của phiên giao dịch trong một khoảng thời gian xác định là?
+1. Biểu đồ dạng nến
+2. Biểu đồ dạng đường thẳng
+3. Biểu đồ dạng thanh
+4. Biểu đồ dạng điểm và số
