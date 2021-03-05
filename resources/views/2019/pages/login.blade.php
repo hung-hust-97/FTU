@@ -159,8 +159,8 @@
 
     </div> -->
 
-    <div class="row" style="margin-left: 40%;margin-top: 18%;">
-                <div class="col-md-4">
+    <div class="row"  id="form-login">
+                <div class="col-md-4" >
                     <div class="col-md-12">
                         <form enctype="multipart/form-data" class="validate" method="post" action="{{route('loginPost')}}" style="color: white;">
                         {{csrf_field()}}
