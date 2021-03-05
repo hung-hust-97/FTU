@@ -9,7 +9,7 @@
 <p>Do số lượng ghế ngồi có hạn và để đảm bảo người tham dự có được những trải nghiệm tốt nhất, BTC sẽ tiến hành tổng hợp và gửi mail thông báo kết quả đăng ký.</p>
 <p>Thông tin xác nhận chính thức về việc tham dự Đêm Chung kết sẽ được gửi đến bạn trong thời gian sớm nhất. Hy vọng sẽ tiếp tục nhận được sự theo dõi và ủng hộ của bạn với Cuộc thi I-INVEST!.</p>
 
-<p>Nếu có thắc mắc về Đêm Chung kết Cuộc thi I-INVEST! 2020, bạn vui lòng inbox<span style="font-weight:bold; color:#188440" ><a href="https://www.facebook.com/GS.I.Invest/" target="_blank"> Fanpage</a></span> hoặc gửi mail về địa chỉ <span style="font-weight:bold; color:#188440" > btccuocthiiinvest2021@gmail.com</span> để BTC có thể giải đáp.</p>
+<p>Nếu có thắc mắc về Đêm Chung kết Cuộc thi I-INVEST! 2020, bạn vui lòng inbox<span style="font-weight:bold; color:#188440" ><a href="https://www.facebook.com/iinvest.sic" target="_blank"> Fanpage</a></span> hoặc gửi mail về địa chỉ <span style="font-weight:bold; color:#188440" > btccuocthiiinvest2021@gmail.com</span> để BTC có thể giải đáp.</p>
 <p>BTC xin chân thành cảm ơn!</p>
 
 <div style="text-align: center">

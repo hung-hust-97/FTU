@@ -138,7 +138,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <!-- <footer class="footer">
         @component('2019.components.footer')@endcomponent
     </footer> -->
-    <footer class="footer-web">
+    <!-- <footer class="footer-web">
             <div class="row" style="color: white;padding-top: 1rem;">
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     
@@ -212,7 +212,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 </div>
 
 
-</footer>
+</footer> -->
 
 
 <style>

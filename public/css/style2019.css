@@ -206,7 +206,7 @@ td.time {
 }
 
 .count-time {
-    color: #fff;background-color: #198440;padding:10px;text-align: center;vertical-align: middle;position:fixed;line-height: 30px;font-size: 30px;
+    color: #fff;background-color: #198440;padding:10px;text-align: center;vertical-align: middle;position:fixed;line-height: 30px;font-size: 50px;
     top: 30%;
     right: 0;
 }
@@ -886,14 +886,15 @@ td.under-countdown {
     padding-top: 2em;
     font-family: 'montserrat' !important;
     border-radius: 30px;
-    background-color: #ffffff;
+    background-color: #ffffff00;
     margin: 12% 10% 5%;
-    color: #2c2c2c;
+    color: #ffffff;
     font-size: 21px;
     letter-spacing: 1px;
     line-height: 20px;
     padding-bottom: 2em;
-    box-shadow: 5px 8px 5px #e4e4e4;
+    box-shadow: 0px 0px 30px 6px #e4e4e485;
+
 }
 
 .container-price {
@@ -952,15 +953,17 @@ td.under-countdown {
     padding: 2em 4% 1em;
     font-family: 'montserrat' !important;
     border-radius: 30px;
-    background-color:#ffffff;
-    margin: 10% 8% 5%;
-    color: #2c2c2c;
+    background-color: #ffffff00;
+    margin: 10%    8% 5%;
+    color: #ffffff;
     font-size: 21px;
     letter-spacing: 1px;
     line-height: 20px;
-    box-shadow: 5px 8px 5px #e4e4e4;
+    box-shadow: 0px 0px 30px 6px #e4e4e485;
 }
-
+.dropdown-menu{
+    background-color: rgb(0, 0, 0) !important;
+}
 .container-question h1 {
     font-family: 'montserrat' !important;
 }
@@ -1151,7 +1154,7 @@ td.under-countdown {
 
 .box-register input, .box-register select, .box-register i, .box-register textarea {
     border-radius: 6px;
-    margin: 10px 0 5px 35px;
+    margin: 10px 0 5px 0px;
 }
 
 .box-register .row {

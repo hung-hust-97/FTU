@@ -14,7 +14,7 @@
     <p><span class="text-bold">Tài khoản</span> và <span class="text-bold">Mật khẩu</span> đã được gửi tới địa chỉ email của bạn</p>
     <p><u>Bạn vui lòng kiểm tra hòm thư (cả mục spam) để lấy thông tin đăng nhập.</u></p>
     <div class="line-content"></div>
-    <p style="font-size: 1.7rem"><i> *Nếu có bất kì thắc mắc, hãy liên hệ với chúng tôi qua fanpage <span style="color:#188440" ><a href="https://www.facebook.com/GS.I.Invest/" target="_blank" class="text-bold">Cuộc thi I-INVEST!</a></i></p>
+    <p style="font-size: 1.7rem"><i> *Nếu có bất kì thắc mắc, hãy liên hệ với chúng tôi qua fanpage <span style="color:#188440" ><a href="https://www.facebook.com/iinvest.sic" target="_blank" class="text-bold">Cuộc thi I-INVEST!</a></i></p>
     <p style="font-size: 1.7rem"><i></span> hoặc gửi mail về địa chỉ <a href="mailto:btccuocthiiinvest2021@gmail.com"><span style="color:#188440" ><u> btccuocthiiinvest2021@gmail.com</u></span></a></i></p>
     </div>
     

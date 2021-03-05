@@ -105,6 +105,7 @@
                                 if (seconds < 10) seconds="0"+seconds;
 
                                 $(this).html(minutes + ":" + seconds);
+
                                 // console.log(event)
                                 // console.log(event.strftime(format))
                             })
