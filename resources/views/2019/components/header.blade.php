@@ -1,9 +1,28 @@
     <div class="row header-row">
 
             <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-                <div class="logo">
-                    <a href="http://sicftu.vn/i-invest/"><img src="{{asset('/2019/logo_back.png')}}"/><span style="color: white;">   VỀ TRANG CHỦ</span></a>
-                </div>
+            <nav class="navbar navbar-left">
+            <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand visible-xs" href="#">MENU</a>
+                        </div>
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                            
+                            <ul class="nav navbar-nav navbar-right">
+                              
+                                <li> <a href="http://sicftu.vn/i-invest/"><span style="color: white;" class="cool-link">   VỀ TRANG CHỦ</span></a></li>
+                                
+                                
+
+                            </ul>
+                        </div><!-- /.navbar-collapse -->
+           
+                </nav>
             </div>
             <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
                 <nav class="navbar navbar-right">
@@ -34,9 +53,9 @@
                                 <li><a  class="cool-link"  href="{{route('dangkychungket')}}" style="border: solid 1px #bbd554;">ĐĂNG KÝ</a></li> -->
                                 <!-- <li><a class="cool-link menu-border-right" id="tongquanheader" >TRANG CHỦ</a></li> -->
                                 @if (\Illuminate\Support\Facades\Auth::check())
-                                <li><a  class="cool-link"  href="{{route('logout')}}" style="border: solid 1px #bbd554;">ĐĂNG XUẤT</a></li>
+                                <li><a  class="cool-link"  href="{{route('logout')}}" style="border: solid 1px #f1f1f1;">ĐĂNG XUẤT</a></li>
                                 @else
-                                <li><a  class="cool-link" id="dang-nhap-button" href="{{route('login')}}" style="border: solid 1px #bbd554;" >ĐĂNG NHẬP</a></li>
+                                <li><a  class="cool-link" id="dang-nhap-button" href="{{route('login')}}" style="border: solid 1px #f1f1f1;" >ĐĂNG NHẬP</a></li>
                                 @endif
                                 
 

@@ -14153,3 +14153,527 @@ Stack trace:
     'deleted_at' => NULL,
   ),
 )  
+[2021-03-05 22:47:45] local.INFO: array (
+  0 => 
+  array (
+    'id' => 4,
+    'question' => 'Ai là tác giả của cuốn sách The Intelligent Investor',
+    'type' => 1,
+    'true' => 'Benjamin Graham',
+    'false' => '["Joel Greenblatt \\r","Peter Lynch \\r","Philip Fisher \\r"]',
+    'raw_answer' => '["Joel Greenblatt \\r","Peter Lynch \\r","Philip Fisher \\r","Benjamin Graham\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:17:00',
+    'deleted_at' => NULL,
+  ),
+  1 => 
+  array (
+    'id' => 7,
+    'question' => ' Ai đang là CEO của Ngân hàng Thương mại cổ phần Kỹ Thương Việt Nam (Techcombank)',
+    'type' => 2,
+    'true' => 'Jens Lottner',
+    'false' => '["H\\u1ed3 H\\u00f9ng Anh\\r","Nguy\\u1ec5n L\\u00ea Qu\\u1ed1c Anh\\r","Andrew Colin Vallis\\r"]',
+    'raw_answer' => '["H\\u1ed3 H\\u00f9ng Anh\\r","Nguy\\u1ec5n L\\u00ea Qu\\u1ed1c Anh\\r","Jens Lottner\\r","Andrew Colin Vallis\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:19:38',
+    'deleted_at' => NULL,
+  ),
+  2 => 
+  array (
+    'id' => 8,
+    'question' => 'Mã cổ phiếu nào trong những mã cố phiếu sau đây đang nằm trong rổ VN30',
+    'type' => 3,
+    'true' => 'PDR',
+    'false' => '["ROS\\r","SAB\\r","EIB\\r"]',
+    'raw_answer' => '["ROS\\r","PDR\\r","SAB\\r","EIB\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:19:49',
+    'deleted_at' => NULL,
+  ),
+  3 => 
+  array (
+    'id' => 11,
+    'question' => 'Màu sắc nào biểu hiện cho sự giảm giá kịch sàn của một cổ phiếu trong ngày',
+    'type' => 4,
+    'true' => 'Xanh dương',
+    'false' => '["\\u0110\\u1ecf\\r","Xanh l\\u00e1\\r","T\\u00edm\\r"]',
+    'raw_answer' => '["\\u0110\\u1ecf\\r","Xanh l\\u00e1\\r","T\\u00edm\\r","Xanh d\\u01b0\\u01a1ng\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:20:00',
+    'deleted_at' => NULL,
+  ),
+  4 => 
+  array (
+    'id' => 14,
+    'question' => 'Trên tờ 1$ Mỹ được in chân dung vị tổng thổng nào',
+    'type' => 5,
+    'true' => 'George Washington',
+    'false' => '["Thomas Jefferson\\r","Abraham Lincoln\\r","Alexander Hamilton\\r"]',
+    'raw_answer' => '["George Washington\\r","Thomas Jefferson\\r","Abraham Lincoln\\r","Alexander Hamilton\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:20:10',
+    'deleted_at' => NULL,
+  ),
+  5 => 
+  array (
+    'id' => 16,
+    'question' => 'Hội chứng Hoa Tulip diễn ra ở Hà Lan vào thế kỷ bao nhiêu',
+    'type' => 6,
+    'true' => '17',
+    'false' => '["14\\r","15\\r","16\\r"]',
+    'raw_answer' => '["14\\r","15\\r","16\\r","17\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:20:20',
+    'deleted_at' => NULL,
+  ),
+  6 => 
+  array (
+    'id' => 19,
+    'question' => 'Tại Việt Nam, tổ chức nào dưới đây chịu trách nhiệm ban hành các chuẩn mực kế toán Việt Nam (VAS)',
+    'type' => 7,
+    'true' => 'Bộ Tài chính',
+    'false' => '["Hi\\u1ec7p h\\u1ed9i K\\u1ebf to\\u00e1n v\\u00e0 Ki\\u1ec3m to\\u00e1n Vi\\u1ec7t Nam\\r","T\\u1ed5ng c\\u1ee5c thu\\u1ebf\\r","T\\u1ea5t c\\u1ea3 c\\u00e1c \\u0111\\u00e1p \\u00e1n tr\\u00ean\\r"]',
+    'raw_answer' => '["B\\u1ed9 T\\u00e0i ch\\u00ednh\\r","Hi\\u1ec7p h\\u1ed9i K\\u1ebf to\\u00e1n v\\u00e0 Ki\\u1ec3m to\\u00e1n Vi\\u1ec7t Nam\\r","T\\u1ed5ng c\\u1ee5c thu\\u1ebf\\r","T\\u1ea5t c\\u1ea3 c\\u00e1c \\u0111\\u00e1p \\u00e1n tr\\u00ean\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:20:30',
+    'deleted_at' => NULL,
+  ),
+  7 => 
+  array (
+    'id' => 18,
+    'question' => 'Công ty A có hoạt động sản xuất kinh doanh chính là xây nhà để bán. A có một tòa nhà đang được cho thuê trung tâm thương mại. Tòa nhà này sẽ được hạch toán vào khoản mục nào sau đây',
+    'type' => 7,
+    'true' => 'Bất động sản đầu tư',
+    'false' => '["Th\\u00e0nh ph\\u1ea9m b\\u1ea5t \\u0111\\u1ed9ng s\\u1ea3n\\r","T\\u00e0i s\\u1ea3n c\\u1ed1 \\u0111\\u1ecbnh thu\\u00ea t\\u00e0i ch\\u00ednh\\r","H\\u00e0ng h\\u00f3a b\\u1ea5t \\u0111\\u1ed9ng s\\u1ea3n\\r"]',
+    'raw_answer' => '["B\\u1ea5t \\u0111\\u1ed9ng s\\u1ea3n \\u0111\\u1ea7u t\\u01b0\\r","Th\\u00e0nh ph\\u1ea9m b\\u1ea5t \\u0111\\u1ed9ng s\\u1ea3n\\r","T\\u00e0i s\\u1ea3n c\\u1ed1 \\u0111\\u1ecbnh thu\\u00ea t\\u00e0i ch\\u00ednh\\r","H\\u00e0ng h\\u00f3a b\\u1ea5t \\u0111\\u1ed9ng s\\u1ea3n\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:20:30',
+    'deleted_at' => NULL,
+  ),
+  8 => 
+  array (
+    'id' => 23,
+    'question' => 'Đường Phillips thể hiện mối quan hệ giữa',
+    'type' => 8,
+    'true' => 'lạm phát và thất nghiệp',
+    'false' => '["l\\u1ea1m ph\\u00e1t v\\u00e0 gi\\u00e1 c\\u1ea3\\r","gi\\u00e1 c\\u1ea3 v\\u00e0 s\\u1ea3n l\\u01b0\\u1ee3ng\\r","s\\u1ea3n l\\u01b0\\u1ee3ng v\\u00e0 th\\u1ea5t nghi\\u1ec7p\\r"]',
+    'raw_answer' => '["l\\u1ea1m ph\\u00e1t v\\u00e0 gi\\u00e1 c\\u1ea3\\r","gi\\u00e1 c\\u1ea3 v\\u00e0 s\\u1ea3n l\\u01b0\\u1ee3ng\\r","l\\u1ea1m ph\\u00e1t v\\u00e0 th\\u1ea5t nghi\\u1ec7p\\r","s\\u1ea3n l\\u01b0\\u1ee3ng v\\u00e0 th\\u1ea5t nghi\\u1ec7p\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:20:43',
+    'deleted_at' => NULL,
+  ),
+  9 => 
+  array (
+    'id' => 26,
+    'question' => 'Khi X và Y là 2 hàng hóa bổ sung hoàn hảo, đường bàng quan có dạng',
+    'type' => 9,
+    'true' => 'hình chữ L',
+    'false' => '["\\u0111\\u01b0\\u1eddng th\\u1eb3ng d\\u1ed1c l\\u00ean\\r","\\u0111\\u01b0\\u1eddng th\\u1eb3ng d\\u1ed1c xu\\u1ed1ng\\r","h\\u00ecnh ch\\u1eef U\\r"]',
+    'raw_answer' => '["\\u0111\\u01b0\\u1eddng th\\u1eb3ng d\\u1ed1c l\\u00ean\\r","\\u0111\\u01b0\\u1eddng th\\u1eb3ng d\\u1ed1c xu\\u1ed1ng\\r","h\\u00ecnh ch\\u1eef L\\r","h\\u00ecnh ch\\u1eef U\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:20:53',
+    'deleted_at' => NULL,
+  ),
+  10 => 
+  array (
+    'id' => 27,
+    'question' => 'Hàm tổng chi phí của một hãng cạnh tranh hoàn hảo là TC = Q^2+Q+100. Hãng sẽ sản xuất bao nhiêu sản phẩm để tối đa hóa lợi nhuận nếu giá bán sản phẩm trên thị trường là 27',
+    'type' => 9,
+    'true' => '13',
+    'false' => '["11\\r","12\\r","14\\r"]',
+    'raw_answer' => '["11\\r","12\\r","13\\r","14\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:20:53',
+    'deleted_at' => NULL,
+  ),
+  11 => 
+  array (
+    'id' => 29,
+    'question' => 'Dưới tác động của thuế, lãi suất của trái phiếu địa phương (Municipal Bonds) sẽ thay đổi như thế nào so với lãi suất của trái phiếu kho bạc (Treasury Bonds)',
+    'type' => 10,
+    'true' => 'Thấp hơn',
+    'false' => '["Cao h\\u01a1n\\r","B\\u1eb1ng nhau\\r","Kh\\u00f4ng x\\u00e1c \\u0111\\u1ecbnh \\u0111\\u01b0\\u1ee3c\\r"]',
+    'raw_answer' => '["Cao h\\u01a1n\\r","Th\\u1ea5p h\\u01a1n\\r","B\\u1eb1ng nhau\\r","Kh\\u00f4ng x\\u00e1c \\u0111\\u1ecbnh \\u0111\\u01b0\\u1ee3c\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:21:04',
+    'deleted_at' => NULL,
+  ),
+  12 => 
+  array (
+    'id' => 28,
+    'question' => 'Nghiệp vụ thị trường mở (OMO) là nghiệp vụ NHTW mua bán loại chứng khoán nào',
+    'type' => 10,
+    'true' => 'trái phiếu chính phủ',
+    'false' => '["t\\u00edn phi\\u1ebfu kho b\\u1ea1c\\r","th\\u01b0\\u01a1ng phi\\u1ebfu\\r","tr\\u00e1i phi\\u1ebfu doanh nghi\\u1ec7p\\r"]',
+    'raw_answer' => '["t\\u00edn phi\\u1ebfu kho b\\u1ea1c\\r","tr\\u00e1i phi\\u1ebfu ch\\u00ednh ph\\u1ee7\\r","th\\u01b0\\u01a1ng phi\\u1ebfu\\r","tr\\u00e1i phi\\u1ebfu doanh nghi\\u1ec7p\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:21:04',
+    'deleted_at' => NULL,
+  ),
+  13 => 
+  array (
+    'id' => 32,
+    'question' => 'Hiệp định Bảo bảo hộ đầu tư (IPA) giữa Việt Nam và EU được chính thức ký kết vào ngày nào',
+    'type' => 11,
+    'true' => '30/06/2019',
+    'false' => '["21\\/01\\/2020\\r","30\\/03\\/2020\\r","08\\/06\\/2020\\r"]',
+    'raw_answer' => '["30\\/06\\/2019\\r","21\\/01\\/2020\\r","30\\/03\\/2020\\r","08\\/06\\/2020\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:21:14',
+    'deleted_at' => NULL,
+  ),
+  14 => 
+  array (
+    'id' => 31,
+    'question' => 'Mức tăng trưởng GDP Việt Nam trong năm 2020 là bao nhiêu',
+    'type' => 11,
+    'true' => '2,91 %',
+    'false' => '["2,94 %\\r","3,01 %\\r","3,04 %\\r"]',
+    'raw_answer' => '["2,91 %\\r","2,94 %\\r","3,01 %\\r","3,04 %\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:21:14',
+    'deleted_at' => NULL,
+  ),
+  15 => 
+  array (
+    'id' => 38,
+    'question' => 'What’s the best way to think about the rise in oil prices in the 1970s, when wars and oil embargoes wracked the Middle East',
+    'type' => 12,
+    'true' => 'A fall in supply',
+    'false' => '["A rise in demand\\r","A fall in demand\\r","A rise in supply\\r"]',
+    'raw_answer' => '["A rise in demand\\r","A fall in demand\\r","A rise in supply\\r","A fall in supply\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:20',
+    'updated_at' => '2021-03-03 21:21:25',
+    'deleted_at' => NULL,
+  ),
+  16 => 
+  array (
+    'id' => 35,
+    'question' => 'If, while you are holding a coupon bond, the interest rates on other similar bonds fall, you know that',
+    'type' => 12,
+    'true' => 'The market price of your bond will rise.',
+    'false' => '["The coupon payments on your bond will fall.\\r","The par value of your bond will rise\\r","the market price of your bond will fall\\r"]',
+    'raw_answer' => '["The coupon payments on your bond will fall.\\r","The market price of your bond will rise.\\r","The par value of your bond will rise\\r","the market price of your bond will fall\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:21:25',
+    'deleted_at' => NULL,
+  ),
+  17 => 
+  array (
+    'id' => 39,
+    'question' => 'Chị Hà gửi ngân hàng 3350000 đồng, theo phương thức lãi đơn, với lãi suất 0,4% trên nửa năm. Hỏi ít nhất bao lâu chị rút được cả vốn lẫn lãi là 4020000 đồng',
+    'type' => 13,
+    'true' => '30 tháng',
+    'false' => '["5 n\\u0103m\\r","3 n\\u0103m\\r","24 th\\u00e1ng\\r"]',
+    'raw_answer' => '["5 n\\u0103m\\r","30 th\\u00e1ng\\r","3 n\\u0103m\\r","24 th\\u00e1ng\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:20',
+    'updated_at' => '2021-03-03 21:21:39',
+    'deleted_at' => NULL,
+  ),
+  18 => 
+  array (
+    'id' => 41,
+    'question' => 'Tìm số tiếp theo 5, 10, 19, 32, 49, 70,...',
+    'type' => 14,
+    'true' => '95',
+    'false' => '["89\\r","105\\r","112\\r"]',
+    'raw_answer' => '["89\\r","95\\r","105\\r","112\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:20',
+    'updated_at' => '2021-03-03 21:21:50',
+    'deleted_at' => NULL,
+  ),
+  19 => 
+  array (
+    'id' => 43,
+    'question' => 'Chú Tư gửi vào ngân hàng 50 triêu đồng với lãi suất 0,6%/tháng. Mỗi tháng, chú Tư rút 3 triệu đồng để chi tiêu, cứ thế cho đến khi rút hết cả gốc lẫn lãi. Hỏi tháng cuối chú rút được bao tiền',
+    'type' => 15,
+    'true' => '1840270 đồng',
+    'false' => '["3000000 \\u0111\\u1ed3ng\\r","1840269 \\u0111\\u1ed3ng\\r","1840268 \\u0111\\u1ed3ng\\r"]',
+    'raw_answer' => '["1840270 \\u0111\\u1ed3ng\\r","3000000 \\u0111\\u1ed3ng\\r","1840269 \\u0111\\u1ed3ng\\r","1840268 \\u0111\\u1ed3ng\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:20',
+    'updated_at' => '2021-03-03 21:22:01',
+    'deleted_at' => NULL,
+  ),
+)  
+[2021-03-05 22:47:45] local.INFO: array (
+  0 => 
+  array (
+    'id' => 28,
+    'question' => 'Nghiệp vụ thị trường mở (OMO) là nghiệp vụ NHTW mua bán loại chứng khoán nào',
+    'type' => 10,
+    'true' => 'trái phiếu chính phủ',
+    'false' => '["t\\u00edn phi\\u1ebfu kho b\\u1ea1c\\r","th\\u01b0\\u01a1ng phi\\u1ebfu\\r","tr\\u00e1i phi\\u1ebfu doanh nghi\\u1ec7p\\r"]',
+    'raw_answer' => '["t\\u00edn phi\\u1ebfu kho b\\u1ea1c\\r","tr\\u00e1i phi\\u1ebfu ch\\u00ednh ph\\u1ee7\\r","th\\u01b0\\u01a1ng phi\\u1ebfu\\r","tr\\u00e1i phi\\u1ebfu doanh nghi\\u1ec7p\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:21:04',
+    'deleted_at' => NULL,
+  ),
+  1 => 
+  array (
+    'id' => 14,
+    'question' => 'Trên tờ 1$ Mỹ được in chân dung vị tổng thổng nào',
+    'type' => 5,
+    'true' => 'George Washington',
+    'false' => '["Thomas Jefferson\\r","Abraham Lincoln\\r","Alexander Hamilton\\r"]',
+    'raw_answer' => '["George Washington\\r","Thomas Jefferson\\r","Abraham Lincoln\\r","Alexander Hamilton\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:20:10',
+    'deleted_at' => NULL,
+  ),
+  2 => 
+  array (
+    'id' => 32,
+    'question' => 'Hiệp định Bảo bảo hộ đầu tư (IPA) giữa Việt Nam và EU được chính thức ký kết vào ngày nào',
+    'type' => 11,
+    'true' => '30/06/2019',
+    'false' => '["21\\/01\\/2020\\r","30\\/03\\/2020\\r","08\\/06\\/2020\\r"]',
+    'raw_answer' => '["30\\/06\\/2019\\r","21\\/01\\/2020\\r","30\\/03\\/2020\\r","08\\/06\\/2020\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:21:14',
+    'deleted_at' => NULL,
+  ),
+  3 => 
+  array (
+    'id' => 11,
+    'question' => 'Màu sắc nào biểu hiện cho sự giảm giá kịch sàn của một cổ phiếu trong ngày',
+    'type' => 4,
+    'true' => 'Xanh dương',
+    'false' => '["\\u0110\\u1ecf\\r","Xanh l\\u00e1\\r","T\\u00edm\\r"]',
+    'raw_answer' => '["\\u0110\\u1ecf\\r","Xanh l\\u00e1\\r","T\\u00edm\\r","Xanh d\\u01b0\\u01a1ng\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:20:00',
+    'deleted_at' => NULL,
+  ),
+  4 => 
+  array (
+    'id' => 31,
+    'question' => 'Mức tăng trưởng GDP Việt Nam trong năm 2020 là bao nhiêu',
+    'type' => 11,
+    'true' => '2,91 %',
+    'false' => '["2,94 %\\r","3,01 %\\r","3,04 %\\r"]',
+    'raw_answer' => '["2,91 %\\r","2,94 %\\r","3,01 %\\r","3,04 %\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:21:14',
+    'deleted_at' => NULL,
+  ),
+  5 => 
+  array (
+    'id' => 16,
+    'question' => 'Hội chứng Hoa Tulip diễn ra ở Hà Lan vào thế kỷ bao nhiêu',
+    'type' => 6,
+    'true' => '17',
+    'false' => '["14\\r","15\\r","16\\r"]',
+    'raw_answer' => '["14\\r","15\\r","16\\r","17\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:20:20',
+    'deleted_at' => NULL,
+  ),
+  6 => 
+  array (
+    'id' => 4,
+    'question' => 'Ai là tác giả của cuốn sách The Intelligent Investor',
+    'type' => 1,
+    'true' => 'Benjamin Graham',
+    'false' => '["Joel Greenblatt \\r","Peter Lynch \\r","Philip Fisher \\r"]',
+    'raw_answer' => '["Joel Greenblatt \\r","Peter Lynch \\r","Philip Fisher \\r","Benjamin Graham\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:17:00',
+    'deleted_at' => NULL,
+  ),
+  7 => 
+  array (
+    'id' => 19,
+    'question' => 'Tại Việt Nam, tổ chức nào dưới đây chịu trách nhiệm ban hành các chuẩn mực kế toán Việt Nam (VAS)',
+    'type' => 7,
+    'true' => 'Bộ Tài chính',
+    'false' => '["Hi\\u1ec7p h\\u1ed9i K\\u1ebf to\\u00e1n v\\u00e0 Ki\\u1ec3m to\\u00e1n Vi\\u1ec7t Nam\\r","T\\u1ed5ng c\\u1ee5c thu\\u1ebf\\r","T\\u1ea5t c\\u1ea3 c\\u00e1c \\u0111\\u00e1p \\u00e1n tr\\u00ean\\r"]',
+    'raw_answer' => '["B\\u1ed9 T\\u00e0i ch\\u00ednh\\r","Hi\\u1ec7p h\\u1ed9i K\\u1ebf to\\u00e1n v\\u00e0 Ki\\u1ec3m to\\u00e1n Vi\\u1ec7t Nam\\r","T\\u1ed5ng c\\u1ee5c thu\\u1ebf\\r","T\\u1ea5t c\\u1ea3 c\\u00e1c \\u0111\\u00e1p \\u00e1n tr\\u00ean\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:20:30',
+    'deleted_at' => NULL,
+  ),
+  8 => 
+  array (
+    'id' => 7,
+    'question' => ' Ai đang là CEO của Ngân hàng Thương mại cổ phần Kỹ Thương Việt Nam (Techcombank)',
+    'type' => 2,
+    'true' => 'Jens Lottner',
+    'false' => '["H\\u1ed3 H\\u00f9ng Anh\\r","Nguy\\u1ec5n L\\u00ea Qu\\u1ed1c Anh\\r","Andrew Colin Vallis\\r"]',
+    'raw_answer' => '["H\\u1ed3 H\\u00f9ng Anh\\r","Nguy\\u1ec5n L\\u00ea Qu\\u1ed1c Anh\\r","Jens Lottner\\r","Andrew Colin Vallis\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:19:38',
+    'deleted_at' => NULL,
+  ),
+  9 => 
+  array (
+    'id' => 8,
+    'question' => 'Mã cổ phiếu nào trong những mã cố phiếu sau đây đang nằm trong rổ VN30',
+    'type' => 3,
+    'true' => 'PDR',
+    'false' => '["ROS\\r","SAB\\r","EIB\\r"]',
+    'raw_answer' => '["ROS\\r","PDR\\r","SAB\\r","EIB\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:19:49',
+    'deleted_at' => NULL,
+  ),
+  10 => 
+  array (
+    'id' => 26,
+    'question' => 'Khi X và Y là 2 hàng hóa bổ sung hoàn hảo, đường bàng quan có dạng',
+    'type' => 9,
+    'true' => 'hình chữ L',
+    'false' => '["\\u0111\\u01b0\\u1eddng th\\u1eb3ng d\\u1ed1c l\\u00ean\\r","\\u0111\\u01b0\\u1eddng th\\u1eb3ng d\\u1ed1c xu\\u1ed1ng\\r","h\\u00ecnh ch\\u1eef U\\r"]',
+    'raw_answer' => '["\\u0111\\u01b0\\u1eddng th\\u1eb3ng d\\u1ed1c l\\u00ean\\r","\\u0111\\u01b0\\u1eddng th\\u1eb3ng d\\u1ed1c xu\\u1ed1ng\\r","h\\u00ecnh ch\\u1eef L\\r","h\\u00ecnh ch\\u1eef U\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:20:53',
+    'deleted_at' => NULL,
+  ),
+  11 => 
+  array (
+    'id' => 35,
+    'question' => 'If, while you are holding a coupon bond, the interest rates on other similar bonds fall, you know that',
+    'type' => 12,
+    'true' => 'The market price of your bond will rise.',
+    'false' => '["The coupon payments on your bond will fall.\\r","The par value of your bond will rise\\r","the market price of your bond will fall\\r"]',
+    'raw_answer' => '["The coupon payments on your bond will fall.\\r","The market price of your bond will rise.\\r","The par value of your bond will rise\\r","the market price of your bond will fall\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:21:25',
+    'deleted_at' => NULL,
+  ),
+  12 => 
+  array (
+    'id' => 23,
+    'question' => 'Đường Phillips thể hiện mối quan hệ giữa',
+    'type' => 8,
+    'true' => 'lạm phát và thất nghiệp',
+    'false' => '["l\\u1ea1m ph\\u00e1t v\\u00e0 gi\\u00e1 c\\u1ea3\\r","gi\\u00e1 c\\u1ea3 v\\u00e0 s\\u1ea3n l\\u01b0\\u1ee3ng\\r","s\\u1ea3n l\\u01b0\\u1ee3ng v\\u00e0 th\\u1ea5t nghi\\u1ec7p\\r"]',
+    'raw_answer' => '["l\\u1ea1m ph\\u00e1t v\\u00e0 gi\\u00e1 c\\u1ea3\\r","gi\\u00e1 c\\u1ea3 v\\u00e0 s\\u1ea3n l\\u01b0\\u1ee3ng\\r","l\\u1ea1m ph\\u00e1t v\\u00e0 th\\u1ea5t nghi\\u1ec7p\\r","s\\u1ea3n l\\u01b0\\u1ee3ng v\\u00e0 th\\u1ea5t nghi\\u1ec7p\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:20:43',
+    'deleted_at' => NULL,
+  ),
+  13 => 
+  array (
+    'id' => 43,
+    'question' => 'Chú Tư gửi vào ngân hàng 50 triêu đồng với lãi suất 0,6%/tháng. Mỗi tháng, chú Tư rút 3 triệu đồng để chi tiêu, cứ thế cho đến khi rút hết cả gốc lẫn lãi. Hỏi tháng cuối chú rút được bao tiền',
+    'type' => 15,
+    'true' => '1840270 đồng',
+    'false' => '["3000000 \\u0111\\u1ed3ng\\r","1840269 \\u0111\\u1ed3ng\\r","1840268 \\u0111\\u1ed3ng\\r"]',
+    'raw_answer' => '["1840270 \\u0111\\u1ed3ng\\r","3000000 \\u0111\\u1ed3ng\\r","1840269 \\u0111\\u1ed3ng\\r","1840268 \\u0111\\u1ed3ng\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:20',
+    'updated_at' => '2021-03-03 21:22:01',
+    'deleted_at' => NULL,
+  ),
+  14 => 
+  array (
+    'id' => 18,
+    'question' => 'Công ty A có hoạt động sản xuất kinh doanh chính là xây nhà để bán. A có một tòa nhà đang được cho thuê trung tâm thương mại. Tòa nhà này sẽ được hạch toán vào khoản mục nào sau đây',
+    'type' => 7,
+    'true' => 'Bất động sản đầu tư',
+    'false' => '["Th\\u00e0nh ph\\u1ea9m b\\u1ea5t \\u0111\\u1ed9ng s\\u1ea3n\\r","T\\u00e0i s\\u1ea3n c\\u1ed1 \\u0111\\u1ecbnh thu\\u00ea t\\u00e0i ch\\u00ednh\\r","H\\u00e0ng h\\u00f3a b\\u1ea5t \\u0111\\u1ed9ng s\\u1ea3n\\r"]',
+    'raw_answer' => '["B\\u1ea5t \\u0111\\u1ed9ng s\\u1ea3n \\u0111\\u1ea7u t\\u01b0\\r","Th\\u00e0nh ph\\u1ea9m b\\u1ea5t \\u0111\\u1ed9ng s\\u1ea3n\\r","T\\u00e0i s\\u1ea3n c\\u1ed1 \\u0111\\u1ecbnh thu\\u00ea t\\u00e0i ch\\u00ednh\\r","H\\u00e0ng h\\u00f3a b\\u1ea5t \\u0111\\u1ed9ng s\\u1ea3n\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:20:30',
+    'deleted_at' => NULL,
+  ),
+  15 => 
+  array (
+    'id' => 29,
+    'question' => 'Dưới tác động của thuế, lãi suất của trái phiếu địa phương (Municipal Bonds) sẽ thay đổi như thế nào so với lãi suất của trái phiếu kho bạc (Treasury Bonds)',
+    'type' => 10,
+    'true' => 'Thấp hơn',
+    'false' => '["Cao h\\u01a1n\\r","B\\u1eb1ng nhau\\r","Kh\\u00f4ng x\\u00e1c \\u0111\\u1ecbnh \\u0111\\u01b0\\u1ee3c\\r"]',
+    'raw_answer' => '["Cao h\\u01a1n\\r","Th\\u1ea5p h\\u01a1n\\r","B\\u1eb1ng nhau\\r","Kh\\u00f4ng x\\u00e1c \\u0111\\u1ecbnh \\u0111\\u01b0\\u1ee3c\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:21:04',
+    'deleted_at' => NULL,
+  ),
+  16 => 
+  array (
+    'id' => 39,
+    'question' => 'Chị Hà gửi ngân hàng 3350000 đồng, theo phương thức lãi đơn, với lãi suất 0,4% trên nửa năm. Hỏi ít nhất bao lâu chị rút được cả vốn lẫn lãi là 4020000 đồng',
+    'type' => 13,
+    'true' => '30 tháng',
+    'false' => '["5 n\\u0103m\\r","3 n\\u0103m\\r","24 th\\u00e1ng\\r"]',
+    'raw_answer' => '["5 n\\u0103m\\r","30 th\\u00e1ng\\r","3 n\\u0103m\\r","24 th\\u00e1ng\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:20',
+    'updated_at' => '2021-03-03 21:21:39',
+    'deleted_at' => NULL,
+  ),
+  17 => 
+  array (
+    'id' => 27,
+    'question' => 'Hàm tổng chi phí của một hãng cạnh tranh hoàn hảo là TC = Q^2+Q+100. Hãng sẽ sản xuất bao nhiêu sản phẩm để tối đa hóa lợi nhuận nếu giá bán sản phẩm trên thị trường là 27',
+    'type' => 9,
+    'true' => '13',
+    'false' => '["11\\r","12\\r","14\\r"]',
+    'raw_answer' => '["11\\r","12\\r","13\\r","14\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:19',
+    'updated_at' => '2021-03-03 21:20:53',
+    'deleted_at' => NULL,
+  ),
+  18 => 
+  array (
+    'id' => 41,
+    'question' => 'Tìm số tiếp theo 5, 10, 19, 32, 49, 70,...',
+    'type' => 14,
+    'true' => '95',
+    'false' => '["89\\r","105\\r","112\\r"]',
+    'raw_answer' => '["89\\r","95\\r","105\\r","112\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:20',
+    'updated_at' => '2021-03-03 21:21:50',
+    'deleted_at' => NULL,
+  ),
+  19 => 
+  array (
+    'id' => 38,
+    'question' => 'What’s the best way to think about the rise in oil prices in the 1970s, when wars and oil embargoes wracked the Middle East',
+    'type' => 12,
+    'true' => 'A fall in supply',
+    'false' => '["A rise in demand\\r","A fall in demand\\r","A rise in supply\\r"]',
+    'raw_answer' => '["A rise in demand\\r","A fall in demand\\r","A rise in supply\\r","A fall in supply\\r"]',
+    'raw_type' => 0,
+    'created_at' => '2021-03-03 20:55:20',
+    'updated_at' => '2021-03-03 21:21:25',
+    'deleted_at' => NULL,
+  ),
+)  
