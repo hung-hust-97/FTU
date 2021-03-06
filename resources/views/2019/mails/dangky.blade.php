@@ -30,7 +30,7 @@
 <p>Chúc bạn hoàn thành tốt bài thi của mình và hẹn gặp lại!</p>
 
 <div style="text-align: center">
-    <p>BTC Cuộc thi I-INVEST! 2020</p>
+    <p>BTC Cuộc thi I-INVEST! 2021</p>
     <p><u>Câu lạc bộ Chứng khoán (SIC) - Đại học Ngoại thương</u></p>
 </div>
 

@@ -13,7 +13,7 @@
 <p>BTC xin chân thành cảm ơn!</p>
 
 <div style="text-align: center">
-    <p>BTC Cuộc thi I-INVEST! 2020</p>
+    <p>BTC Cuộc thi I-INVEST! 2021</p>
     <p>Câu lạc bộ Chứng khoán (SIC) - Đại học Ngoại thương</p>
 </div>
 
