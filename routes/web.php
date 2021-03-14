@@ -27,9 +27,10 @@ Route::get('/giai-thuong','FTU2019Controller@giaithuong')->name('giaithuong');
 
 //Vòng 1
 
-Route::get('/','FTU2019Controller@homepage')->name('home');
-Route::get('/updateData','FTU2019Controller@updateData')->name('updateData');
-Route::get('/updateAnswer','FTU2019Controller@reshapeData')->name('reshapeData');
+Route::get('/','UserController@login')->name('loginhome');
+// Route::get('/','FTU2019Controller@homepage')->name('home');
+// Route::get('/updateData','FTU2019Controller@updateData')->name('updateData');
+// Route::get('/updateAnswer','FTU2019Controller@reshapeData')->name('reshapeData');
 // Route::get('/test','FTU2019Controller@rawAns');
 Route::get('/login','UserController@login')->name('login');
 Route::post('/login','UserController@loginPost')->name('loginPost');

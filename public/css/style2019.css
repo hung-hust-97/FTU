@@ -1379,7 +1379,9 @@ td.under-countdown {
     margin-top: 500px;
 }
 #form-login{
-    margin-left: 40%;margin-top: 18%;
+    margin-left: 25%;
+    margin-top: 18%;
+    margin-right: 25%;
 }
 @media screen and (max-width: 1366px) {
     .logo img {
@@ -1491,7 +1493,9 @@ td.under-countdown {
 
 @media only screen and (max-width: 993px){
     #form-login{
-        margin-left: 0%;margin-top: 0%;
+        margin-left: 15%;
+        margin-top: 35%;
+        margin-right: 16%;
     }
     .container {
         width: 80%;
@@ -1552,7 +1556,9 @@ td.under-countdown {
 
 @media screen and (max-width: 768px) {
     #form-login{
-        margin-left: 0%;margin-top: 0%;
+        margin-left: 15%;
+        margin-top: 40%;
+        margin-right: 20%;
     }
     .table-clock {
         width: 100%;

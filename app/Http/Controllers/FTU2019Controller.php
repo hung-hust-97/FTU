@@ -29,7 +29,7 @@ class FTU2019Controller extends Controller
     public $keyQues;
 
     //Cài đặt thời gian kết thúc thi
-    public $time_out = "05 april 2021";
+    public $time_out = "13 april 2021";
 
     public function __construct()
     {
@@ -138,8 +138,8 @@ class FTU2019Controller extends Controller
         // $questions = Question::where('type',2)->get();
         // $right = [1,2];                       //C.txt
         // $questions = Question::where('type',3)->get();
-        // $right = [2,3,0,1];               //D.txt
-        // $questions = Question::where('type',4)->get();
+        $right = [2,3];               //D.txt
+        $questions = Question::where('type',4)->get();
         // $right = [0,1];     //E.txt
         // $questions = Question::where('type',5)->get();
         // $right = [3,2];                 //F.txt
@@ -160,8 +160,8 @@ class FTU2019Controller extends Controller
         // $questions = Question::where('type',13)->get();
         // $right = [1,2];                 //N.txt
         // $questions = Question::where('type',14)->get();
-        $right = [0,0];                 //O.txt
-        $questions = Question::where('type',15)->get();
+        // $right = [0,0];                 //O.txt
+        // $questions = Question::where('type',15)->get();
     //    dd($questions[2], \GuzzleHttp\json_decode($questions[2]["answer"]));
        $i = 0;
        foreach ($questions as $question) {

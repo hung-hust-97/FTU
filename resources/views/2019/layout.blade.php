@@ -194,7 +194,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                             <td><i class="fas fa-phone"></i> <a href="tel:0769274068" style="color: white">0329087892 (Mr. Trung Kiên)</a><i>&ensp;&ensp;&ensp; &emsp;&emsp;&ensp;&ensp;&ensp;&ensp;&ensp;          </i></td>
                             </tr>
                             <tr>
-                            <td  padding-left: 15%><i class="fab fa-facebook"></i> <a href="https://www.facebook.com/gs.i.invest" style="color: white;    ">facebook.com/gs.i.invest</a></td>
+                            <td  padding-left: 15%><i class="fab fa-facebook"></i> <a href="https://www.facebook.com/iinvest.sic" style="color: white;    ">facebook.com/gs.i.invest</a></td>
                             </tr>
                             <tr>
                             <td><i class="fas fa-envelope-square"></i> <a href="mailto:btccuocthiiinvest2021@gmail.com" style="color: white; ">btccuocthiiinvest2021@gmail.com</a></td>

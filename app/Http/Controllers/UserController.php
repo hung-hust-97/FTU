@@ -21,14 +21,14 @@ class UserController extends Controller
 {
     public function register ()
     {
-        if (strtotime("now") <= strtotime("23:59 05 april 2021")) {
+        if (strtotime("now") <= strtotime("23:59 13 april 2021")) {
             return view('2019.pages.register');
         } else {
             return redirect(route('home'));
         }
     }
     public function registerConfirmV1() {
-        if (strtotime("now") <= strtotime("23:59 05 april 2021")) {
+        if (strtotime("now") <= strtotime("23:59 13 april 2021")) {
             return view('2019.pages.register_confirm_v1');
         } else {
             return redirect(route('home'));
@@ -38,7 +38,7 @@ class UserController extends Controller
 
     public function requestRegister(Request $request)
     {
-        if (strtotime("now") <= strtotime("23:59 05 april 2021")) {
+        if (strtotime("now") <= strtotime("23:59 13 april 2021")) {
             DB::beginTransaction();
             $helper = new APIReturnHelper();
             

@@ -8,13 +8,3 @@ Câu 2: Màu sắc nào biểu hiện cho sự giảm giá kịch sàn của m�
 2. Xanh lá
 3. Tím
 4. Xanh dương
-Câu 3:  Màu sắc nào biểu hiện cho sự giảm giá của một cổ phiếu trong ngày?
-1. Đỏ
-2. Xanh lá
-3. Tím
-4. Xanh dương
-Câu 4: Màu sắc nào biểu hiện cho sự tăng giá của một cổ phiếu trong ngày?
-1. Đỏ
-2. Xanh lá
-3. Tím
-4. Xanh dương

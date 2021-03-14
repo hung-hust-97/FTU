@@ -11,7 +11,7 @@
             <h1 class="text-bold">Chúc mừng bạn {{$member->name}} đã hoàn thành bài thi!</h1>
             <div class="line-content"></div>
             <p>Kết quả <span class="text-bold" style="color:#188440">Vòng 1: I-START!</span> sẽ được thông báo tới bạn trong thời gian sớm nhất.</p>
-            <p>Bạn hãy chú ý theo dõi fanpage <a href="https://www.facebook.com/gs.i.invest" style="color: white;    "><span class="text-bold" style="color:#188440">Cuộc thi I-INVEST!</span></a> để có thể cập nhật</p>
+            <p>Bạn hãy chú ý theo dõi Facebook page <a href="https://www.facebook.com/iinvest.sic" style="color: white;    "><span class="text-bold" style="color:#188440">Cuộc thi I-INVEST!</span></a> để có thể cập nhật</p>
             <p>thêm các thông tin sắp tới.</p>
             <div class="line-content"></div>
             <p style="font-family: montserratBold" ><i>BTC xin chân thành cảm ơn! </i></p>

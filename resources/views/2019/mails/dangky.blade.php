@@ -19,7 +19,7 @@
     <li>Thời gian làm bài: <span style="font-weight:bold; color:#188440">20 phút</span>. Để tránh sự cố về đường truyền mạng, thí sinh nên kiểm tra kết nối mạng trước khi làm bài thi.</li>
     <li>Chuẩn bị đầy đủ giấy nháp, bút và máy tính bỏ túi trước khi làm bài.</li>
     <li>Mỗi thí sinh chỉ có thể nộp bài một (01) lần.</li>
-    <li>hời gian nộp bài hợp lệ: từ thời điểm đăng ký đến <span style="font-weight:bold; color:#188440">23:59 ngày 05/04/2021.</span>.</li>
+    <li>Thời gian nộp bài hợp lệ: từ thời điểm đăng ký đến <span style="font-weight:bold; color:#188440">23:59 ngày 12/04/2021.</span>.</li>
 
 </ul>
 

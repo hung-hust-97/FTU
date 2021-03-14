@@ -118,49 +118,60 @@
 
 
 <div class="container-fluid">
-    <div class="content">
-<!-- <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content dang-nhap">
-            <form enctype="multipart/form-data" class="validate" method="post" action="{{route('loginPost')}}">
-                {{csrf_field()}}
-                
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    
+<header class="header" style="z-index: 1;">
+<div class="row header-row">
 
-                </div>
-
-                <div class="modal-body">
-
-                    <div class="alert alert-danger" style="display: none; text-align: center">
-                        <strong id="alert">Error!</strong>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-md-12 col-sm-12">
-                            <div class="form-group ">
-                                <label class="" for="exampleInputEmail1">Tài khoản</label>
-                                <input type="text" class="form-control" name="email" required>
-                            </div>
-
-                            <div class="form-group ">
-                                <label class="">Mật khẩu </label>
-                                <input type="password" class="form-control" name="password" required>
-                            </div>
-                        </div>
-                    </div>
-                    <p>Chưa có tài khoản? <a href="{{route('dangky')}}"><u>Đăng ký ngay</u></a></p>
-                </div>
-
-                <div class="modal-footer text-center">
-                    <button type="submit" class="btn btn-lg" id="button-submit">ĐĂNG NHẬP</button>
-                </div>
-            </form>
+           
+            
+<nav class="navbar navbar-right">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand visible-xs" href="#">MENU</a>
         </div>
 
-    </div> -->
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <!-- <ul class="nav navbar-nav navbar-right">    
+                 <li><a class="cool-link menu-border-right {{\Illuminate\Support\Facades\Route::currentRouteName() == 'tongquan' ? 'current' : '' }}"  href="{{route('tongquan')}}">TỔNG QUAN</a></li>
+                <li><a class="cool-link menu-border-right {{\Illuminate\Support\Facades\Route::currentRouteName() == 'giaithuong' ? 'current' : '' }}"  href="{{route('giaithuong')}}">GIẢI THƯỞNG</a></li>
+                <li><a class="cool-link {{\Illuminate\Support\Facades\Route::currentRouteName() == 'doitac' ? 'current' : '' }}"  href="{{route('doitac')}}">ĐƠN VỊ ĐỐI TÁC</a></li>
+                <li><a id="timkiem" class="cool-link" href="#">ĐĂNG NHẬP</a></li>
+            </ul> -->
+            <ul class="nav navbar-nav navbar-right">
+                <!-- <li><a class="cool-link menu-border-right" id="top5header" >TOP 5 I-INVEST</a></li>
+                <li><a class="cool-link menu-border-right" id="tongquanheader" >TỔNG QUAN</a></li>
+                <li><a class="cool-link menu-border-right" id="giaithuongheader">GIẢI THƯỞNG</a></li>
+                <li><a class="cool-link" id="donvidoitacheader">ĐƠN VỊ ĐỐI TÁC</a></li>
+                <li><a  class="cool-link"  href="{{route('dangkychungket')}}" style="border: solid 1px #bbd554;">ĐĂNG KÝ</a></li> -->
+                <!-- <li><a class="cool-link menu-border-right" id="tongquanheader" >TRANG CHỦ</a></li> -->
+                <li> <a class="cool-link" href="http://sicftu.vn/i-invest/"> VỀ TRANG CHỦ</a></li>
+                @if (\Illuminate\Support\Facades\Auth::check())
+                <li><a  class="cool-link"  href="{{route('logout')}}" style="border: solid 1px #bbd554;">ĐĂNG XUẤT</a></li>
+                @else
+                <li><a  class="cool-link" id="dang-nhap-button" href="{{route('login')}}" style="border: solid 1px #ffffff;" >ĐĂNG NHẬP</a></li>
+                @endif
+                
+
+            </ul>
+        </div><!-- /.navbar-collapse -->
+                
+</nav>
+
+
+</div>
+        </div>
+
+    <div class="content">
 
     <div class="row"  id="form-login">
-                <div class="col-md-4" >
+                <div class="col-md-12" >
                     <div class="col-md-12">
                         <form enctype="multipart/form-data" class="validate" method="post" action="{{route('loginPost')}}" style="color: white;">
                         {{csrf_field()}}

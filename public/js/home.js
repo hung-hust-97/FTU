@@ -21,7 +21,7 @@ $(document).ready(function(){
 
 
 
-        $('.clock').countdown('05/04/2021')
+        $('.clock').countdown('12/04/2021')
         .on('update.countdown', function(event) {
             var totalDays= event.offset.totalDays;
 
